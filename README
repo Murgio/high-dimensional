@@ -1,0 +1,21 @@
+For educational and entertainment purposes. The author doesn't claim any originality.
+Implementations of various statistial learning approaches/ bits inherited from books such as:
+
+* Wainwright, M. (2019). High-Dimensional Statistics: A Non-Asymptotic Viewpoint (Cambridge Series in Statistical and Probabilistic Mathematics). Cambridge: Cambridge University Press
+
+* Peter D. Grünwald, 2007. "The Minimum Description Length Principle," MIT Press Books, The MIT Press, edition 1, volume 1
+
+* Richard Hartley and Andrew Zisserman. 2000. Multiple view geometry in computer vision. Cambridge University Press.
+
+* Kevin P. Murphy. 2012. Machine Learning: A Probabilistic Perspective. The MIT Press.
+
+/*
+ * Copyright (c) 2020-2021 Muriz Serifovic
+ *
+ * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL
+ * THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+ * THE SOFTWARE.
